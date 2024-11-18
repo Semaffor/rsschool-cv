@@ -1,4 +1,4 @@
-# *Dzmitry Buyvid*
+# *Dzmitry Buivid*
 
 
 ### Contacts
