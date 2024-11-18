@@ -29,3 +29,18 @@ I'm 22 year old person with inspiration to finally connect my life with software
   + Java
   + Golang
   + React
+
+--- 
+
+### Code Example
+
+  ```Java
+  public class Number {
+
+  public boolean isEven(double n) {
+    return n % 2 == 0 ? true : false;
+    }
+}
+  ```
+
+  
