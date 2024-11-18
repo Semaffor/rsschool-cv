@@ -1,1 +1,1 @@
-# rsschool-cv
+https://semaffor.github.io/rsschool-cv/cv
