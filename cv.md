@@ -43,4 +43,12 @@ I'm 22 year old person with inspiration to finally connect my life with software
 }
   ```
 
-  
+  ---
+
+  ### Education 
+
+  - **BSUIR**
+    - *Information and technology in economics*
+  - **UDEMY**
+    - *Java*
+    - *React*
